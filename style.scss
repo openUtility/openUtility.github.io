@@ -150,7 +150,7 @@ button {
         font-size: 16px;
         color: #6b6b6b;
         .time, .agent {
-            font-weight: 100;
+            font-weight: 300;
             padding-top: 15px;
         }
         .event, .guest, .department {
@@ -160,7 +160,7 @@ button {
         .withGuest, .copy {
             font-size: 15px;
             padding-top: 15px;
-            font-weight: 100;
+            font-weight: 300;
         }
         .noPadding {
             padding-top: 0;
@@ -169,11 +169,11 @@ button {
             text-transform: uppercase;
             font-size: 15px;
             padding-top: 15px;
-            font-weight: 100;
+            font-weight: 300;
         }
         .attire {
             font-size: 14px;
-            font-weight: 100;
+            font-weight: 300;
             padding-top: 15px;
         }
         &.galaEvent {
