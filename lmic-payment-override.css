@@ -1,0 +1,27 @@
+body {
+    background-image: none !important;
+    background-color: white !important;
+}
+
+.header {
+    display: none !important;
+}
+
+body table tbody tr :nth-child(1) {
+    visibility: hidden !important;
+}
+
+body table tbody tr td form table tbody,
+body table tbody tr td form table tbody tr,
+body table tbody tr td form table tbody tr td,
+body table tbody tr td form table tbody tr td input{
+    visibility: visible !important;
+}
+
+body :nth-child(2) {
+    visibility: hidden !important;
+}
+
+body :nth-child(3) {
+    visibility: hidden !important;
+}
