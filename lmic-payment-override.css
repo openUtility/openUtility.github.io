@@ -6,10 +6,10 @@ body {
 .header {
     display: none !important;
 }
-
+/* 
 body table tbody tr :nth-child(1) {
     visibility: hidden !important;
-}
+} */
 
 body table tbody tr td form table tbody,
 body table tbody tr td form table tbody tr,

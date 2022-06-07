@@ -1,0 +1,28 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 91.9" style="enable-background:new 0 0 120 91.9;" xml:space="preserve">
+<style type="text/css">
+   	.lmic_load{fill:none;stroke:#205E45;stroke-width:3;stroke-miterlimit:10;}
+    <defs>
+        <style>
+            .lmic_load {
+                stroke-dasharray: 100;
+				stroke-dashoffset: 800;
+				webkit-animation: dash 6s linear forwards;
+				o-animation: dash 6s linear forwards;
+				moz-animation: dash 6s linear forwards;
+				animation: dash 6s linear forwards;
+				animation-iteration-count: infinite;
+			}
+			@-webkit-keyframes dash {
+			from {
+				stroke-dashoffset: 200;
+			}
+			to {
+				stroke-dashoffset: 0;
+				}
+			}
+        </style>
+    </defs>
+</style>
+<polyline class="lmic_load" points="0,27.41 13.71,13.71 0.01,0 0.01,29.84 30.48,29.84 16.77,16.14 3.07,29.84 33.61,29.84 33.61,0.01 19.89,13.72 33.58,27.41"/>
+</svg>
